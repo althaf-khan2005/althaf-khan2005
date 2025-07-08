@@ -7,10 +7,13 @@
 
 - 📫 How to reach me **khanalthaf596@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
+<h3>🔗 Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/althaf-khan-z-2b4a79321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="althaf-khan-z-2b4a79321" height="30" width="40" /></a>  
+  <a href="https://linkedin.com/in/althaf-khan-z-2b4a79321" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
   
 ---
   <h3>🛠 Languages and Tools</h3>

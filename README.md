@@ -8,11 +8,9 @@
 - 📫 How to reach me **khanalthaf596@gmail.com**
 
 <h3>🔗 Connect with me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/althaf-khan-z-2b4a79321" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/althaf-khan-z-2b4a79321)
+
 
   
 ---

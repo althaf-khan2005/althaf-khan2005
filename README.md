@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Althaf khan</h1>
 <h3 align="center"> Full-stack in Progress</h3>
 
----
+--- 
 
 - 💬 Ask me about **Flutter, Firebase, Java,**
 
 - 📫 How to reach me **khanalthaf596@gmail.com**
+
+
+---
 
 <h3>🔗 Connect with me</h3>
 

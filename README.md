@@ -18,17 +18,17 @@
   
 ---
   <h3>🛠 Languages and Tools</h3>
+  
 
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://dart.dev)  
-[![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)  
-[![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)  
-[![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev)  
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)  
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)  
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-
+[![](https://img.shields.io/badge/?logo=html5&logoColor=E34F26&style=flat-square&logoOnly=true)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![](https://img.shields.io/badge/?logo=css3&logoColor=1572B6&style=flat-square&logoOnly=true)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://img.shields.io/badge/?logo=dart&logoColor=0175C2&style=flat-square&logoOnly=true)](https://dart.dev)
+[![](https://img.shields.io/badge/?logo=figma&logoColor=F24E1E&style=flat-square&logoOnly=true)](https://www.figma.com/)
+[![](https://img.shields.io/badge/?logo=firebase&logoColor=FFCA28&style=flat-square&logoOnly=true)](https://firebase.google.com/)
+[![](https://img.shields.io/badge/?logo=flutter&logoColor=02569B&style=flat-square&logoOnly=true)](https://flutter.dev)
+[![](https://img.shields.io/badge/?logo=git&logoColor=F05032&style=flat-square&logoOnly=true)](https://git-scm.com/)
+[![](https://img.shields.io/badge/?logo=java&logoColor=ED8B00&style=flat-square&logoOnly=true)](https://www.java.com/)
+[![](https://img.shields.io/badge/?logo=python&logoColor=3776AB&style=flat-square&logoOnly=true)](https://www.python.org/)
 
 ---
 

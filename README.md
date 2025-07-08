@@ -19,7 +19,6 @@
 ---
   <h3>🛠 Languages and Tools</h3>
   
-
 [![](https://img.shields.io/badge/?logo=html5&logoColor=E34F26&style=flat-square&logoOnly=true)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://img.shields.io/badge/?logo=css3&logoColor=1572B6&style=flat-square&logoOnly=true)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![](https://img.shields.io/badge/?logo=dart&logoColor=0175C2&style=flat-square&logoOnly=true)](https://dart.dev)
@@ -29,6 +28,7 @@
 [![](https://img.shields.io/badge/?logo=git&logoColor=F05032&style=flat-square&logoOnly=true)](https://git-scm.com/)
 [![](https://img.shields.io/badge/?logo=java&logoColor=ED8B00&style=flat-square&logoOnly=true)](https://www.java.com/)
 [![](https://img.shields.io/badge/?logo=python&logoColor=3776AB&style=flat-square&logoOnly=true)](https://www.python.org/)
+
 
 ---
 

@@ -53,7 +53,7 @@
 ---
 
  <h3>⚡ Fun fact </h3>
-**I’m not lazy — I’m just in energy-saving mode 💤⚡**
+I’m not lazy — I’m just in energy-saving mode 💤⚡
 
   
 

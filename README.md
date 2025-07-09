@@ -1,6 +1,7 @@
 <h1 align="center">Hello Hi 👋, I'm Althaf khan</h1>
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/dev-setup.png" width="400" alt="Althaf coding setup"/>
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/dev-setup.png" width="400" alt="animated banner"/>
+
 
 
 

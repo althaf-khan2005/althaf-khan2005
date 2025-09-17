@@ -7,7 +7,7 @@
 
 --- 
 
-- 💬 Ask me about **Flutter, Firebase, Java,**
+- 💬 Ask me about **Flutter, Firebase, Java, AWS**
 
 - 📫 How to reach me **khanalthaf596@gmail.com**
 

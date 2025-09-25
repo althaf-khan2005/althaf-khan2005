@@ -45,7 +45,8 @@
 ---
 
  <h3>⚡ Fun fact </h3>
-I speak Java when I’m serious, Dart when I’m creative, and Node.js when I’m hungry for backend power 🍜💻
+I speak Java when I’m serious, Dart when I’m creative, and AWS Cloud when I’m hungry for backend power ☁️💻
+
 
   
 
